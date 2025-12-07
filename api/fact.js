@@ -1,5 +1,9 @@
 // api/fact.js
 
+// Optional: add a random query string to prevent caching
+const uniqueUrl = `/api/fact?t=${Math.floor(Math.random() * 1000000)}`;
+
+
 const facts = require('./facts.json'); 
 console.log("API /api/fact was called");
 

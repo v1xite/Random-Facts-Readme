@@ -22,42 +22,23 @@ module.exports = (req, res) => {
   // =========================================================
   const width = 650;
   const height = 180;
-  const bgColor = '#17171B';
-  const titleColor = '#BB86FC';
-  const borderColor = '#343A40';
-  const quoteColor = '#8BC34A';
-  const textColor = '#EEEEEE';
-  const titleText = 'Random IT Facts';
+  const bgColor = '#151515';
+  const textColor = '#B0B0B0';
 
   const svg = `
     <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg">
       <rect x="0" y="0" width="${width}" height="${height}" fill="${bgColor}" rx="8" />
-      <rect x="0" y="0" width="8" height="${height}" fill="${quoteColor}" rx="8 0 0 8" />
-      <foreignObject x="20" y="20" width="${width - 40}" height="24">
+      <foreignObject x="20" y="20" width="${width - 40}" height="${height - 40}">
         <div xmlns="http://www.w3.org/1999/xhtml" style="
           display: flex;
-          align-items: center;
-          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        ">
-          <span style="font-size: 20px; line-height: 1; margin-right: 8px;">🔥</span>
-          <h2 style="color: ${titleColor}; font-size: 16px; font-weight: 600; margin: 0;">
-            ${titleText}
-          </h2>
-        </div>
-      </foreignObject>
-      <line x1="20" y1="55" x2="${width - 20}" y2="55" stroke="${borderColor}" stroke-width="1" />
-      <foreignObject x="20" y="70" width="${width - 40}" height="${height - 90}">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="
-          display: flex;
-          flex-direction: column;
-          justify-content: flex-start;
           align-items: flex-start;
-          height: 100%;
+          justify-content: flex-start;
           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          height: 100%;
           box-sizing: border-box;
         ">
           <p style="color: ${textColor}; font-size: 22px; font-weight: 400; font-style: italic; line-height: 1.4; margin: 0; padding: 0; text-align: left;">
-            <span style="color: ${quoteColor}; margin-right: 5px;">“</span>${factText}<span style="color: ${quoteColor}; margin-left: 5px;">”</span>
+            ${factText}
           </p>
         </div>
       </foreignObject>

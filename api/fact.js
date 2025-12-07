@@ -18,7 +18,7 @@ module.exports = (req, res) => {
   const height = 180;
   const bgColor = '#151515';
   const textColor = '#B0B0B0';
-  const quoteColor = '#4DA6FF'; // blue quotes
+  const quoteColor = '#4DA6FF';
 
   const svg = `
     <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -33,7 +33,9 @@ module.exports = (req, res) => {
           box-sizing: border-box;
         ">
           <p style="color: ${textColor}; font-size: 22px; font-weight: 400; font-style: italic; line-height: 1.4; margin: 0; padding: 0; text-align: left;">
-            <span style="color: ${quoteColor};">“</span>${factText}<span style="color: ${quoteColor};">”</span>
+            <span style="color: ${quoteColor}; font-size: 28px; font-weight: bold; font-family: 'Georgia', serif;">❝</span>
+            ${factText}
+            <span style="color: ${quoteColor}; font-size: 28px; font-weight: bold; font-family: 'Georgia', serif;">❞</span>
           </p>
         </div>
       </foreignObject>
@@ -47,3 +49,4 @@ module.exports = (req, res) => {
 
   res.send(svg);
 };
+

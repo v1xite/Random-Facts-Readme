@@ -12,15 +12,125 @@ module.exports = (req, res) => {
 
   // --- 1. Define your Themes here ---
   const themes = {
-    dark: {
+    dark_blue: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
       quoteColor: '#4DA6FF'
     },
-    light: {
-      bgColor: '#FFFFFF',
-      textColor: '#333333',
-      quoteColor: '#0070F3' // Vercel Blue
+    dark_red: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#ff4d4dff'
+    },
+    dark_orange: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#ff974dff'
+    },
+    dark_yellow: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#fffc4dff'
+    },
+    dark_green: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#4dff50ff'
+    },
+    dark_ocean_blue: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#4dffe4ff'
+    },
+    dark_ocean: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#4dd5ffff'
+    },
+    dark_blue: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#4d4dffff'
+    },
+    dark_purple: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#974dffff'
+    },
+     dark_pink: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#ff4dedff'
+    },
+      dark_radical_red: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#ff4d8eff'
+    },
+    light_blue: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#4DA6FF'
+    },
+
+    light_red: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4D4D'
+    },
+
+    light_orange: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF974D'
+    },
+
+    light_yellow: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#E5D200'
+    },
+
+    light_green: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#00C73A'   // ашық фонда жақсы көріну үшін
+    },
+
+    light_ocean_blue: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#00D4B8'
+    },
+
+    light_ocean: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#25C2FF'   // ашық фонда таза көгілдір
+    },
+
+    light_blue: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#4D4DFF'
+    },
+
+    light_purple: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#974DFF'
+    },
+
+    light_pink: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4DED'
+    },
+
+    light_radical_red: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4D8E'
     },
     dracula: {
       bgColor: '#282a36',
@@ -30,9 +140,127 @@ module.exports = (req, res) => {
     ocean: {
       bgColor: '#0f1c2e',
       textColor: '#a3b8d6',
-      quoteColor: '#38bdae'
+      quoteColor: '#38bdae' 
     },
-    // Add as many as you want here...
+    midnight: {
+      bgColor: '#0F141A',
+      textColor: '#C7D1E0',
+      quoteColor: '#5AA6FF'
+    },
+    nebula: {
+      bgColor: '#12171F',
+      textColor: '#E3D7FF',
+      quoteColor: '#B084FF'
+    },
+    deep_ocean: {
+      bgColor: '#131B24',
+      textColor: '#A5C4DA',
+      quoteColor: '#3EE5C7'
+    },
+    amethyst: {
+      bgColor: '#161B22',
+      textColor: '#D6C7FF',
+      quoteColor: '#A05BFF'
+    },
+    neo_pink: {
+      bgColor: '#12171F',
+      textColor: '#F5E9F7',
+      quoteColor: '#FF4DBF'
+    },
+    inferno: {
+      bgColor: '#1A222C',
+      textColor: '#E6C8C8',
+      quoteColor: '#FF6A4D'
+    },
+    jade: {
+      bgColor: '#0F141A',
+      textColor: '#C9F1D0',
+      quoteColor: '#49FF87'
+    },
+    arctic: {
+      bgColor: '#131B24',
+      textColor: '#D4E9F5',
+      quoteColor: '#73D5FF'
+    },
+    azure: {
+      bgColor: '#161B22',
+      textColor: '#BFD8FF',
+      quoteColor: '#4D8CFF'
+    },
+    crimson_core: {
+      bgColor: '#12171F',
+      textColor: '#E9C1C1',
+      quoteColor: '#FF3B6B'
+    },
+        // 🌤 Frost — clean minimal cold theme
+    frost: {
+      bgColor: '#F7F9FC',     // cold white
+      textColor: '#0D1117',   // muted deep black
+      quoteColor: '#4D8CFF'   // cold blue accent
+    },
+
+    // 📘 Polar Day — bright but soft arctic style
+    polar_day: {
+      bgColor: '#F5FAFF',
+      textColor: '#1A2738',
+      quoteColor: '#47C5FF'   // light ocean blue
+    },
+
+    // 🌥 Silver Mist — low-contrast premium style
+    silver_mist: {
+      bgColor: '#F2F4F7',
+      textColor: '#222831',
+      quoteColor: '#8A7BFF'   // soft purple
+    },
+
+    // 🕊 Cloudveil — elegant neutral
+    cloudveil: {
+      bgColor: '#FAFAFA',
+      textColor: '#202428',
+      quoteColor: '#FF7ACB'   // elegant pink
+    },
+
+    // 🌼 Dawnlight — soft warm/cool hybrid
+    dawnlight: {
+      bgColor: '#FFFDF7',     // warm-white but subtle
+      textColor: '#2C2F36',
+      quoteColor: '#FF8E5A'   // warm accent, balanced
+    },
+
+    // 🍃 Willow — nature-inspired light theme
+    willow: {
+      bgColor: '#F8FBF8',
+      textColor: '#1F2A22',
+      quoteColor: '#3DDC84'   // jade-like green
+    },
+
+    // 🌊 Tide — oceanic light theme
+    tide: {
+      bgColor: '#F3FAF9',
+      textColor: '#1A2C2A',
+      quoteColor: '#32D6C5'   // aqua accent
+    },
+
+    // ✨ Ether — futuristic clean theme
+    ether: {
+      bgColor: '#F6F6FF',     // cold lilac-tinted white
+      textColor: '#27273A',
+      quoteColor: '#9A6DFF'   // luxury violet
+    },
+
+    // ☁ Nimbus — crisp neutral grayish white
+    nimbus: {
+      bgColor: '#F4F6F8',
+      textColor: '#1D232B',
+      quoteColor: '#5AA6FF'   // same logic as midnight
+    },
+
+    // 💠 Crystal — polished premium blue-white
+    crystal: {
+      bgColor: '#F0F7FF',
+      textColor: '#1B2B3A',
+      quoteColor: '#68B9FF'   // refined bright blue
+    }
   };
 
   // --- 2. Get the requested theme from URL (default to 'dark') ---

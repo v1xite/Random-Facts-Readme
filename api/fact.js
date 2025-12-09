@@ -10,15 +10,47 @@ module.exports = (req, res) => {
     return res.send(errorSVG);
   }
 
+  // --- 1. Define your Themes here ---
+  const themes = {
+    dark: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
+      quoteColor: '#4DA6FF'
+    },
+    light: {
+      bgColor: '#FFFFFF',
+      textColor: '#333333',
+      quoteColor: '#0070F3' // Vercel Blue
+    },
+    dracula: {
+      bgColor: '#282a36',
+      textColor: '#f8f8f2',
+      quoteColor: '#ff79c6' // Dracula Pink
+    },
+    ocean: {
+      bgColor: '#0f1c2e',
+      textColor: '#a3b8d6',
+      quoteColor: '#38bdae'
+    },
+    // Add as many as you want here...
+  };
+
+  // --- 2. Get the requested theme from URL (default to 'dark') ---
+  // req.query.theme looks for ?theme=xyz in the URL
+  const requestedTheme = req.query.theme || 'dark';
+  
+  // Select the theme config, or fallback to 'dark' if the name doesn't exist
+  const currentTheme = themes[requestedTheme] || themes.dark;
+
   const randomIndex = Math.floor(Math.random() * facts.length);
   const fact = facts[randomIndex];
   const factText = fact && fact.text ? fact.text : "Error loading fact text.";
 
   const width = 650;
   const height = 180;
-  const bgColor = '#151515';
-  const textColor = '#B0B0B0';
-  const quoteColor = '#4DA6FF';
+  
+  // --- 3. Use the dynamic colors ---
+  const { bgColor, textColor, quoteColor } = currentTheme;
 
   const svg = `
     <svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" fill="none" xmlns="http://www.w3.org/2000/svg">

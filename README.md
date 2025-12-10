@@ -1,7 +1,11 @@
 <h1 align="center"> <img src="assets/logo/wave.png" height="35px" width="35px"> </h1>
 
 
+### 🎨 Interactive Fact Generator Themes
 
+**✨ Click below to view the full gallery where you can copy the link with a single click! ✨**
+
+[**View Interactive Theme Gallery**](https://yourusername.github.io/your-repository-name/themes.html)
 
 
 ## 🕶 Dark Themes

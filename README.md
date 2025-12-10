@@ -3,12 +3,12 @@
 
 ## 📋 Usage notes
 
-- Insert this anywhere in your README:
+- Add it to your README:
   ```md
   ### 🌊 Random IT Facts
   ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
-- Change the theme by changing last "theme=" part for example theme=crystals
-- You can see all themes bellow
+- To use another theme: change the value of theme= (example: theme=crystals)
+- All available themes are shown below.
 
 ---
 

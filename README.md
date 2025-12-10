@@ -9,33 +9,7 @@
 - Change the theme by changing last "theme=" part for example theme=crystals
 - You can see all themes bellow
 
-
-
-## 📋 Usage notes
-
-- Insert this anywhere in your README:
-
-  ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
-
-- Change the theme by modifying the last part `theme=`  
-  Example:  
-  `theme=crystals`
-
-- You can see all themes below.
-
-
-
-## 📋 Usage notes
-
-- Insert this anywhere in your README:
-
-  [![Random IT Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)](REPO_LINK_MINE)
-
-- Change the theme by editing the `theme=` query parameter.  
-  Example: `theme=crystals`
-
-
-
+---
 
 ## 🕶 Dark Themes
 

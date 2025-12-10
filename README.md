@@ -2,288 +2,115 @@
 ## 🕶 Dark Themes
 
 <table>
-<tr>
-<td>
-
-
-
-
-
-
-<!-- dark_blue -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#4DA6FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_blue</text>
-  <text x="240" y="50" fill="#4DA6FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_red -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#FF4D4D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_red</text>
-  <text x="240" y="50" fill="#FF4D4D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_orange -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#FF974D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_orange</text>
-  <text x="240" y="50" fill="#FF974D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- dark_yellow -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#FFFC4D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_yellow</text>
-  <text x="240" y="50" fill="#FFFC4D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_green -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#4DFF50" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_green</text>
-  <text x="240" y="50" fill="#4DFF50" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_ocean_blue -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#4DFFE4" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_ocean_blue</text>
-  <text x="240" y="50" fill="#4DFFE4" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- dark_ocean -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#4DD5FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_ocean</text>
-  <text x="240" y="50" fill="#4DD5FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_indigo -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#4D4DFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_indigo</text>
-  <text x="240" y="50" fill="#4D4DFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_purple -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#974DFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_purple</text>
-  <text x="240" y="50" fill="#974DFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- dark_pink -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#FF4DED" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_pink</text>
-  <text x="240" y="50" fill="#FF4DED" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dark_radical_red -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#151515"/>
-  <text x="20" y="50" fill="#FF4D8E" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#B0B0B0">dark_radical_red</text>
-  <text x="240" y="50" fill="#FF4D8E" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- dracula -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#282A36"/>
-  <text x="20" y="50" fill="#FF79C6" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#F8F8F2">dracula</text>
-  <text x="240" y="50" fill="#FF79C6" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- ocean -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#0F1C2E"/>
-  <text x="20" y="50" fill="#38BDAE" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#A3B8D6">ocean</text>
-  <text x="240" y="50" fill="#38BDAE" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- midnight -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#0F141A"/>
-  <text x="20" y="50" fill="#5AA6FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#C7D1E0">midnight</text>
-  <text x="240" y="50" fill="#5AA6FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- nebula -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#12171F"/>
-  <text x="20" y="50" fill="#B084FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#E3D7FF">nebula</text>
-  <text x="240" y="50" fill="#B084FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- deep_ocean -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#131B24"/>
-  <text x="20" y="50" fill="#3EE5C7" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#A5C4DA">deep_ocean</text>
-  <text x="240" y="50" fill="#3EE5C7" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- amethyst -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#161B22"/>
-  <text x="20" y="50" fill="#A05BFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#D6C7FF">amethyst</text>
-  <text x="240" y="50" fill="#A05BFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- neo_pink -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#12171F"/>
-  <text x="20" y="50" fill="#FF4DBF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#F5E9F7">neo_pink</text>
-  <text x="240" y="50" fill="#FF4DBF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- inferno -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#1A222C"/>
-  <text x="20" y="50" fill="#FF6A4D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#E6C8C8">inferno</text>
-  <text x="240" y="50" fill="#FF6A4D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- jade -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#0F141A"/>
-  <text x="20" y="50" fill="#49FF87" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#C9F1D0">jade</text>
-  <text x="240" y="50" fill="#49FF87" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- arctic -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#131B24"/>
-  <text x="20" y="50" fill="#73D5FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#D4E9F5">arctic</text>
-  <text x="240" y="50" fill="#73D5FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- azure -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#161B22"/>
-  <text x="20" y="50" fill="#4D8CFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#BFD8FF">azure</text>
-  <text x="240" y="50" fill="#4D8CFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- crimson_core -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#12171F"/>
-  <text x="20" y="50" fill="#FF3B6B" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#E9C1C1">crimson_core</text>
-  <text x="240" y="50" fill="#FF3B6B" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td></td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/dark_blue.svg" alt="dark_blue" width="260"/>
+      <br/><code>dark_blue</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_red.svg" alt="dark_red" width="260"/>
+      <br/><code>dark_red</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_orange.svg" alt="dark_orange" width="260"/>
+      <br/><code>dark_orange</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/dark_yellow.svg" alt="dark_yellow" width="260"/>
+      <br/><code>dark_yellow</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_green.svg" alt="dark_green" width="260"/>
+      <br/><code>dark_green</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_ocean_blue.svg" alt="dark_ocean_blue" width="260"/>
+      <br/><code>dark_ocean_blue</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/dark_ocean.svg" alt="dark_ocean" width="260"/>
+      <br/><code>dark_ocean</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_indigo.svg" alt="dark_indigo" width="260"/>
+      <br/><code>dark_indigo</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_purple.svg" alt="dark_purple" width="260"/>
+      <br/><code>dark_purple</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/dark_pink.svg" alt="dark_pink" width="260"/>
+      <br/><code>dark_pink</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dark_radical_red.svg" alt="dark_radical_red" width="260"/>
+      <br/><code>dark_radical_red</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/dracula.svg" alt="dracula" width="260"/>
+      <br/><code>dracula</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/ocean.svg" alt="ocean" width="260"/>
+      <br/><code>ocean</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/midnight.svg" alt="midnight" width="260"/>
+      <br/><code>midnight</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/nebula.svg" alt="nebula" width="260"/>
+      <br/><code>nebula</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/deep_ocean.svg" alt="deep_ocean" width="260"/>
+      <br/><code>deep_ocean</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/amethyst.svg" alt="amethyst" width="260"/>
+      <br/><code>amethyst</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/neo_pink.svg" alt="neo_pink" width="260"/>
+      <br/><code>neo_pink</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/inferno.svg" alt="inferno" width="260"/>
+      <br/><code>inferno</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/jade.svg" alt="jade" width="260"/>
+      <br/><code>jade</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/arctic.svg" alt="arctic" width="260"/>
+      <br/><code>arctic</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/azure.svg" alt="azure" width="260"/>
+      <br/><code>azure</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/crimson_core.svg" alt="crimson_core" width="260"/>
+      <br/><code>crimson_core</code>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ---
@@ -291,257 +118,104 @@
 ## 🌤 Light Themes
 
 <table>
-<tr>
-<td>
-
-<!-- light_blue -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#4DA6FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_blue</text>
-  <text x="240" y="50" fill="#4DA6FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_red -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#FF4D4D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_red</text>
-  <text x="240" y="50" fill="#FF4D4D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_orange -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#FF974D" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_orange</text>
-  <text x="240" y="50" fill="#FF974D" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- light_yellow -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#E5D200" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_yellow</text>
-  <text x="240" y="50" fill="#E5D200" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_green -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#00C73A" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_green</text>
-  <text x="240" y="50" fill="#00C73A" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_ocean_blue -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#00D4B8" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_ocean_blue</text>
-  <text x="240" y="50" fill="#00D4B8" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- light_ocean -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#25C2FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_ocean</text>
-  <text x="240" y="50" fill="#25C2FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_indigo -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#4D4DFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_indigo</text>
-  <text x="240" y="50" fill="#4D4DFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_purple -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#974DFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_purple</text>
-  <text x="240" y="50" fill="#974DFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- light_pink -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#FF4DED" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_pink</text>
-  <text x="240" y="50" fill="#FF4DED" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- light_radical_red -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5F5F5"/>
-  <text x="20" y="50" fill="#FF4D8E" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#111111">light_radical_red</text>
-  <text x="240" y="50" fill="#FF4D8E" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- frost -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F7F9FC"/>
-  <text x="20" y="50" fill="#4D8CFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#0D1117">frost</text>
-  <text x="240" y="50" fill="#4D8CFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- polar_day -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F5FAFF"/>
-  <text x="20" y="50" fill="#47C5FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1A2738">polar_day</text>
-  <text x="240" y="50" fill="#47C5FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- silver_mist -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F2F4F7"/>
-  <text x="20" y="50" fill="#8A7BFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#222831">silver_mist</text>
-  <text x="240" y="50" fill="#8A7BFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- cloudveil -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#FAFAFA"/>
-  <text x="20" y="50" fill="#FF7ACB" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#202428">cloudveil</text>
-  <text x="240" y="50" fill="#FF7ACB" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- dawnlight -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#FFFDF7"/>
-  <text x="20" y="50" fill="#FF8E5A" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#2C2F36">dawnlight</text>
-  <text x="240" y="50" fill="#FF8E5A" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- willow -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F8FBF8"/>
-  <text x="20" y="50" fill="#3DDC84" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1F2A22">willow</text>
-  <text x="240" y="50" fill="#3DDC84" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- tide -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F3FAF9"/>
-  <text x="20" y="50" fill="#32D6C5" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1A2C2A">tide</text>
-  <text x="240" y="50" fill="#32D6C5" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<!-- ether -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F6F6FF"/>
-  <text x="20" y="50" fill="#9A6DFF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#27273A">ether</text>
-  <text x="240" y="50" fill="#9A6DFF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- nimbus -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F4F6F8"/>
-  <text x="20" y="50" fill="#5AA6FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1D232B">nimbus</text>
-  <text x="240" y="50" fill="#5AA6FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-<td>
-
-<!-- crystal -->
-<svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="260" height="80" rx="10" fill="#F0F7FF"/>
-  <text x="20" y="50" fill="#68B9FF" font-family="Georgia" font-size="32">“</text>
-  <text x="130" y="50" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#1B2B3A">crystal</text>
-  <text x="240" y="50" fill="#68B9FF" font-family="Georgia" font-size="32">”</text>
-</svg>
-
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/light_blue.svg" alt="light_blue" width="260"/>
+      <br/><code>light_blue</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_red.svg" alt="light_red" width="260"/>
+      <br/><code>light_red</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_orange.svg" alt="light_orange" width="260"/>
+      <br/><code>light_orange</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/light_yellow.svg" alt="light_yellow" width="260"/>
+      <br/><code>light_yellow</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_green.svg" alt="light_green" width="260"/>
+      <br/><code>light_green</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_ocean_blue.svg" alt="light_ocean_blue" width="260"/>
+      <br/><code>light_ocean_blue</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/light_ocean.svg" alt="light_ocean" width="260"/>
+      <br/><code>light_ocean</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_indigo.svg" alt="light_indigo" width="260"/>
+      <br/><code>light_indigo</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_purple.svg" alt="light_purple" width="260"/>
+      <br/><code>light_purple</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/light_pink.svg" alt="light_pink" width="260"/>
+      <br/><code>light_pink</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/light_radical_red.svg" alt="light_radical_red" width="260"/>
+      <br/><code>light_radical_red</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/frost.svg" alt="frost" width="260"/>
+      <br/><code>frost</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/polar_day.svg" alt="polar_day" width="260"/>
+      <br/><code>polar_day</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/silver_mist.svg" alt="silver_mist" width="260"/>
+      <br/><code>silver_mist</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/cloudveil.svg" alt="cloudveil" width="260"/>
+      <br/><code>cloudveil</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/dawnlight.svg" alt="dawnlight" width="260"/>
+      <br/><code>dawnlight</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/willow.svg" alt="willow" width="260"/>
+      <br/><code>willow</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/tide.svg" alt="tide" width="260"/>
+      <br/><code>tide</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/themes/ether.svg" alt="ether" width="260"/>
+      <br/><code>ether</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/nimbus.svg" alt="nimbus" width="260"/>
+      <br/><code>nimbus</code>
+    </td>
+    <td align="center">
+      <img src="./assets/themes/crystal.svg" alt="crystal" width="260"/>
+      <br/><code>crystal</code>
+    </td>
+  </tr>
 </table>
 
 ---

@@ -20,127 +20,62 @@ module.exports = (req, res) => {
     dark_red: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#ff4d4dff'
+      quoteColor: '#FF4D4D'
     },
     dark_orange: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#ff974dff'
+      quoteColor: '#FF974D'
     },
     dark_yellow: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#fffc4dff'
+      quoteColor: '#FFFC4D'
     },
     dark_green: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#4dff50ff'
+      quoteColor: '#4DFF50'
     },
     dark_ocean_blue: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#4dffe4ff'
+      quoteColor: '#4DFFE4'
     },
     dark_ocean: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#4dd5ffff'
+      quoteColor: '#4DD5FF'
     },
-    dark_blue: {
+    dark_indigo: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#4d4dffff'
+      quoteColor: '#4D4DFF'
     },
     dark_purple: {
       bgColor: '#151515',
       textColor: '#B0B0B0',
-      quoteColor: '#974dffff'
-    },
-     dark_pink: {
-      bgColor: '#151515',
-      textColor: '#B0B0B0',
-      quoteColor: '#ff4dedff'
-    },
-      dark_radical_red: {
-      bgColor: '#151515',
-      textColor: '#B0B0B0',
-      quoteColor: '#ff4d8eff'
-    },
-    light_blue: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#4DA6FF'
-    },
-
-    light_red: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#FF4D4D'
-    },
-
-    light_orange: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#FF974D'
-    },
-
-    light_yellow: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#E5D200'
-    },
-
-    light_green: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#00C73A'   // ашық фонда жақсы көріну үшін
-    },
-
-    light_ocean_blue: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#00D4B8'
-    },
-
-    light_ocean: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#25C2FF'   // ашық фонда таза көгілдір
-    },
-
-    light_blue: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
-      quoteColor: '#4D4DFF'
-    },
-
-    light_purple: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
       quoteColor: '#974DFF'
     },
-
-    light_pink: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
+    dark_pink: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
       quoteColor: '#FF4DED'
     },
-
-    light_radical_red: {
-      bgColor: '#F5F5F5',
-      textColor: '#111111',
+    dark_radical_red: {
+      bgColor: '#151515',
+      textColor: '#B0B0B0',
       quoteColor: '#FF4D8E'
     },
     dracula: {
-      bgColor: '#282a36',
-      textColor: '#f8f8f2',
-      quoteColor: '#ff79c6' // Dracula Pink
+      bgColor: '#282A36',
+      textColor: '#F8F8F2',
+      quoteColor: '#FF79C6'
     },
     ocean: {
-      bgColor: '#0f1c2e',
-      textColor: '#a3b8d6',
-      quoteColor: '#38bdae' 
+      bgColor: '#0F1C2E',
+      textColor: '#A3B8D6',
+      quoteColor: '#38BDAE'
     },
     midnight: {
       bgColor: '#0F141A',
@@ -192,74 +127,110 @@ module.exports = (req, res) => {
       textColor: '#E9C1C1',
       quoteColor: '#FF3B6B'
     },
-        // 🌤 Frost — clean minimal cold theme
-    frost: {
-      bgColor: '#F7F9FC',     // cold white
-      textColor: '#0D1117',   // muted deep black
-      quoteColor: '#4D8CFF'   // cold blue accent
+    light_blue: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#4DA6FF'
     },
-
-    // 📘 Polar Day — bright but soft arctic style
+    light_red: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4D4D'
+    },
+    light_orange: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF974D'
+    },
+    light_yellow: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#E5D200'
+    },
+    light_green: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#00C73A'
+    },
+    light_ocean_blue: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#00D4B8'
+    },
+    light_ocean: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#25C2FF'
+    },
+    light_indigo: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#4D4DFF'
+    },
+    light_purple: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#974DFF'
+    },
+    light_pink: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4DED'
+    },
+    light_radical_red: {
+      bgColor: '#F5F5F5',
+      textColor: '#111111',
+      quoteColor: '#FF4D8E'
+    },
+    frost: {
+      bgColor: '#F7F9FC',
+      textColor: '#0D1117',
+      quoteColor: '#4D8CFF'
+    },
     polar_day: {
       bgColor: '#F5FAFF',
       textColor: '#1A2738',
-      quoteColor: '#47C5FF'   // light ocean blue
+      quoteColor: '#47C5FF'
     },
-
-    // 🌥 Silver Mist — low-contrast premium style
     silver_mist: {
       bgColor: '#F2F4F7',
       textColor: '#222831',
-      quoteColor: '#8A7BFF'   // soft purple
+      quoteColor: '#8A7BFF'
     },
-
-    // 🕊 Cloudveil — elegant neutral
     cloudveil: {
       bgColor: '#FAFAFA',
       textColor: '#202428',
-      quoteColor: '#FF7ACB'   // elegant pink
+      quoteColor: '#FF7ACB'
     },
-
-    // 🌼 Dawnlight — soft warm/cool hybrid
     dawnlight: {
-      bgColor: '#FFFDF7',     // warm-white but subtle
+      bgColor: '#FFFDF7',
       textColor: '#2C2F36',
-      quoteColor: '#FF8E5A'   // warm accent, balanced
+      quoteColor: '#FF8E5A'
     },
-
-    // 🍃 Willow — nature-inspired light theme
     willow: {
       bgColor: '#F8FBF8',
       textColor: '#1F2A22',
-      quoteColor: '#3DDC84'   // jade-like green
+      quoteColor: '#3DDC84'
     },
-
-    // 🌊 Tide — oceanic light theme
     tide: {
       bgColor: '#F3FAF9',
       textColor: '#1A2C2A',
-      quoteColor: '#32D6C5'   // aqua accent
+      quoteColor: '#32D6C5'
     },
-
-    // ✨ Ether — futuristic clean theme
     ether: {
-      bgColor: '#F6F6FF',     // cold lilac-tinted white
+      bgColor: '#F6F6FF',
       textColor: '#27273A',
-      quoteColor: '#9A6DFF'   // luxury violet
+      quoteColor: '#9A6DFF'
     },
-
-    // ☁ Nimbus — crisp neutral grayish white
     nimbus: {
       bgColor: '#F4F6F8',
       textColor: '#1D232B',
-      quoteColor: '#5AA6FF'   // same logic as midnight
+      quoteColor: '#5AA6FF'
     },
-
-    // 💠 Crystal — polished premium blue-white
     crystal: {
       bgColor: '#F0F7FF',
       textColor: '#1B2B3A',
-      quoteColor: '#68B9FF'   // refined bright blue
+      quoteColor: '#68B9FF'
     }
   };
 

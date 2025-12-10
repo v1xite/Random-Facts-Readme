@@ -4,46 +4,6 @@
 
 
 
-
-
-
-
-
-## 🌑 Dark Themes
-
-| Theme | Preview | Link to Copy |
-| :---: | :-----: | :---: |
-| **dark\_blue** | <img src="./assets/themes/dark_blue.svg" alt="dark_blue" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue` |
-| **dark\_red** | <img src="./assets/themes/dark_red.svg" alt="dark_red" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_red` |
-| **dark\_orange** | <img src="./assets/themes/dark_orange.svg" alt="dark_orange" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_orange` |
-| **dark\_yellow** | <img src="./assets/themes/dark_yellow.svg" alt="dark_yellow" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_yellow` |
-| **dark\_green** | <img src="./assets/themes/dark_green.svg" alt="dark_green" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_green` |
-| **dark\_ocean\_blue** | <img src="./assets/themes/dark_ocean_blue.svg" alt="dark_ocean_blue" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_ocean_blue` |
-| **dark\_ocean** | <img src="./assets/themes/dark_ocean.svg" alt="dark_ocean" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_ocean` |
-| **dark\_indigo** | <img src="./assets/themes/dark_indigo.svg" alt="dark_indigo" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_indigo` |
-| **dark\_purple** | <img src="./assets/themes/dark_purple.svg" alt="dark_purple" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_purple` |
-| **dark\_pink** | <img src="./assets/themes/dark_pink.svg" alt="dark_pink" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_pink` |
-| **dark\_radical\_red** | <img src="./assets/themes/dark_radical_red.svg" alt="dark_radical_red" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dark_radical_red` |
-| **dracula** | <img src="./assets/themes/dracula.svg" alt="dracula" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=dracula` |
-| **ocean** | <img src="./assets/themes/ocean.svg" alt="ocean" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=ocean` |
-| **midnight** | <img src="./assets/themes/midnight.svg" alt="midnight" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=midnight` |
-| **nebula** | <img src="./assets/themes/nebula.svg" alt="nebula" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=nebula` |
-| **deep\_ocean** | <img src="./assets/themes/deep_ocean.svg" alt="deep_ocean" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=deep_ocean` |
-| **amethyst** | <img src="./assets/themes/amethyst.svg" alt="amethyst" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=amethyst` |
-| **neo\_pink** | <img src="./assets/themes/neo_pink.svg" alt="neo_pink" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=neo_pink` |
-| **inferno** | <img src="./assets/themes/inferno.svg" alt="inferno" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=inferno` |
-| **jade** | <img src="./assets/themes/jade.svg" alt="jade" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=jade` |
-| **arctic** | <img src="./assets/themes/arctic.svg" alt="arctic" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=arctic` |
-| **azure** | <img src="./assets/themes/azure.svg" alt="azure" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=azure` |
-| **crimson\_core** | <img src="./assets/themes/crimson_core.svg" alt="crimson_core" width="200"/> | `https://random-facts-generator-two.vercel.app/api/fact?theme=crimson_core` |
-
-
-
-
-
-
-
-
 ## 🕶 Dark Themes
 
 <table>

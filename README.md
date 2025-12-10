@@ -6,6 +6,29 @@
 <td>
 
 
+
+### Dark Themes
+
+<div>
+  <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="260" height="80" rx="10" fill="#151515"/>
+    <text x="130" y="50" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#4DA6FF">dark_blue</text>
+  </svg>
+
+  <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="260" height="80" rx="10" fill="#151515"/>
+    <text x="130" y="50" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#ff4d4d">dark_red</text>
+  </svg>
+
+  <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="260" height="80" rx="10" fill="#151515"/>
+    <text x="130" y="50" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#ff974d">dark_orange</text>
+  </svg>
+</div>
+
+
+
+
 <!-- dark_blue -->
 <svg width="260" height="80" xmlns="http://www.w3.org/2000/svg">
   <rect width="260" height="80" rx="10" fill="#151515"/>

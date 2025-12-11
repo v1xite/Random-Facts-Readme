@@ -3,7 +3,7 @@
 
   <h1 align="center">Github Random Facts</h1>
   <h3 align="center">Random IT/Programming Facts For Your GitHub Profile Readme.</h3>
-  <img align="center" src="assets/github_logo/v1xite_github2.png" width="20%" />
+  <img src="assets/github_logo/v1xite_github2.png" width="10%" />
 
 </p>
 

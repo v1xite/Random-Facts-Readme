@@ -9,7 +9,7 @@
 
 ## 📋 Usage notes
 
-- Add it to your README:
+- Add this snippet to your README:
   ```md
   ### 🌊 Random IT Facts
   ![Random Fact](https://random-facts-generator-two.vercel.app/api/fact?theme=dark_blue)
@@ -241,20 +241,4 @@
 </div>
 ---
 
-## 📋 Usage notes
 
-- 
-- 
-- 
-
----
-
-## 🛠 Theme config (JS object)
-
-```js
-const themes = {
-  // (copy any of the themes from the README SVG list above)
-  dark_blue: { bgColor: '#151515', textColor: '#B0B0B0', quoteColor: '#4DA6FF' },
-  // ...
-  crystal: { bgColor: '#F0F7FF', textColor: '#1B2B3A', quoteColor: '#68B9FF' }
-};

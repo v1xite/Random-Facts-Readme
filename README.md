@@ -12,7 +12,7 @@
 
 ---
 
-## 🕶 Dark Themes
+<div align="center"> ## 🕶 Dark Themes
 
 <table>
   <tr>
@@ -230,7 +230,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 📋 Usage notes

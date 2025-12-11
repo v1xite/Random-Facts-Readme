@@ -251,6 +251,75 @@
   </tr>
 </table>
 </div>
+
 ---
+
+## ⭐ Support the Project
+
+If you find this useful, consider leaving a star — it truly helps the project grow.
+
+---
+## ✦ Author
+
+<b>Socials</b><br>
+<a href="https://anilist.co/user/v1xite">AniList</a> •
+<a href="https://instagram.com/v1xite">Instagram</a> •
+<a href="https://tiktok.com/@v1xite">TikTok</a> •
+<a href="https://pinterest.com/v1xite">Pinterest</a> •
+<a href="https://github.com/v1xite">GitHub</a>
+
+
+1 
+
+## 👤 Author
+
+**v1xite**  
+[AniList](https://anilist.co/user/v1xite) •  
+[Instagram](https://instagram.com/v1xite) •  
+[TikTok](https://tiktok.com/@v1xite) •  
+[Pinterest](https://pinterest.com/v1xite) •  
+[GitHub](https://github.com/v1xite)
+
+
+2
+
+## 👤 Author
+
+**v1xite** —  
+[AniList](https://anilist.co/user/v1xite) • [Instagram](https://instagram.com/v1xite) •  
+[TikTok](https://tiktok.com/@v1xite) • [Pinterest](https://pinterest.com/v1xite) •  
+[GitHub](https://github.com/v1xite)
+
+
+3
+
+## 👤 Author
+
+**Name:** v1xite  
+**AniList:** https://anilist.co/user/v1xite  
+**Instagram:** https://instagram.com/v1xite  
+**TikTok:** https://tiktok.com/@v1xite  
+**Pinterest:** https://pinterest.com/v1xite  
+**GitHub:** https://github.com/v1xite
+
+4
+
+## 👤 Author
+
+**v1xite**
+
+📘 [AniList](https://anilist.co/user/v1xite)  
+📸 [Instagram](https://instagram.com/v1xite)  
+🎵 [TikTok](https://tiktok.com/@v1xite)  
+📌 [Pinterest](https://pinterest.com/v1xite)  
+💻 [GitHub](https://github.com/v1xite)
+
+
+5
+
+## 👤 Author
+
+v1xite  
+[AniList](https://anilist.co/user/v1xite) • [Instagram](https://instagram.com/v1xite) • [TikTok](https://tiktok.com/@v1xite) • [Pinterest](https://pinterest.com/v1xite) • [GitHub](https://github.com/v1xite)
 
 

@@ -7,11 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/v1xite">
-  <img src="v1xite_github3.png" alt="v1xite's GitHub Profile" style="width:10%;" />
-</a>
   <img src="assets/github_logo/v1xite_github3.png" width="10%" />
   <img src="assets/github_logo/v1xite_javascript.png" width="10%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/v1xite">
+    <img src="assets/github_logo/v1xite_github3.png" width="10%" alt="v1xite GitHub Profile" />
+  </a>
+  <img src="assets/github_logo/v1xite_javascript.png" width="10%" alt="JavaScript Logo" />
 </p>
     
 

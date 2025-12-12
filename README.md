@@ -254,8 +254,9 @@
 
 ---
 
-inspired from:  <a href="https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file">
-<p>github-readme-quotes</p>
+<p>
+inspired from:  github-readme-quotes<a href="https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file">
+</p>
 
 ---
 

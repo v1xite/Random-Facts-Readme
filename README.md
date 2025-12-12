@@ -258,6 +258,19 @@
 inspired from:  github-readme-quotes<a href="https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file">
 </p>
 
+
+1 
+<p>
+Inspired from: <a href="https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file" target="_blank">github-readme-quotes</a>
+</p>
+
+2
+Inspired from: [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
+
+3
+<p>
+inspired from: <a href="https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file">github-readme-quotes</a>
+</p>
 ---
 
 ## ⭐ Support the Project

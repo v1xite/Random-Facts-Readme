@@ -277,6 +277,6 @@ If you find this useful, consider leaving a star — it truly helps the project 
 
 <p align="center">
   <a href="https://github.com/v1xite">
-    <img src="assets/github_logo/mbj.png" width="20%" alt="Made by v1xite and JavaScript">
+    <img src="assets/github_logo/mbj.png" width="25%" alt="Made by v1xite and JavaScript">
   </a>
 </p>

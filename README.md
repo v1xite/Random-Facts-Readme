@@ -276,5 +276,13 @@ If you find this useful, consider leaving a star — it truly helps the project 
 💻 [GitHub](https://github.com/v1xite)
 
 <p align="center"> 
+  
   [![made-by](https://img.shields.io/badge/made%20by-v1xite-blue?logo=javascript&logoColor=white)](https://github.com/v1xite)
+
+  [![made-by](https://img.shields.io/badge/Made%20by-v1xite-orange?style=flat-square)](https://github.com/v1xite)
+
+[![made-by](https://img.shields.io/badge/Made%20by-v1xite-orange?style=flat-square&logo=javascript&logoColor=white)](https://github.com/v1xite)
+
+[![made-by](https://img.shields.io/badge/made%20by-v1xite-blue)](https://github.com/v1xite)
+
 </p>

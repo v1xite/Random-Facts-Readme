@@ -254,12 +254,12 @@
 
 ---
 
-# Inspired from: 
+##### Inspired from: 
 [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes?tab=readme-ov-file)
 
 ---
 
-### ⭐ Support the Project
+## ⭐ Support the Project
 
 If you find this useful, consider leaving a star — it truly helps the project grow.
 
